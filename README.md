@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Reem!
+  
+<h2>👨‍💻 CyberSecurity Projects:</h2>
 
-<!--
-**RJarikji/RJarikji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Phishing Awareness</b>
+  - https://youtu.be/rjU0lbLdUUM
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Certifications</b>
+  -CompTIA Network+ Certification
+  
+  -Cisco CCNA Routing and Switching: Introduction to Networks Certificate of Completion
+  
+  -Cisco CCNA Switching, Routing, and Wireless Essentials Certificate of Completion
+  
+  -IT Security & Network Technician Certificate of Completion from Medcerts
+  
+  -TestOut Security Pro Certification
+  
+  -CompTIA Security Plus (Expected 5/2024)
+
+
+
+- 🔭 I’m currently working on some indvidual projects related to cybersecurity! 
+
+
