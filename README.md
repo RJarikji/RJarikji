@@ -3,7 +3,10 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Phishing Awareness</b>
-  - https://youtu.be/rjU0lbLdUUM
+
+  - [Github Link](https://github.com/RJarikji/Phishing-Awareness/blob/main/README.md)
+
+  - [Youtube](https://youtu.be/rjU0lbLdUUM)
 
 
 <h2>👨‍💻 Certifications: </h2>
