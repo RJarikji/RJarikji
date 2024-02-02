@@ -11,7 +11,7 @@
 
 <h2>👨‍💻 Certifications: </h2>
 
-  -CompTIA Network+ Certification
+  -[CompTIA Network+ Certification](https://i.imgur.com/Abe700T.png)
   
   -Cisco CCNA Routing and Switching: Introduction to Networks Certificate of Completion
   
