@@ -6,7 +6,8 @@
   - https://youtu.be/rjU0lbLdUUM
 
 
-- <b>Certifications</b>
+<h2>👨‍💻 Certifications: </h2>
+
   -CompTIA Network+ Certification
   
   -Cisco CCNA Routing and Switching: Introduction to Networks Certificate of Completion
@@ -21,6 +22,6 @@
 
 
 
-- 🔭 I’m currently working on some indvidual projects related to cybersecurity! 
+🔭 I’m currently working on some indvidual projects related to cybersecurity! 
 
 
